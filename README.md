@@ -78,6 +78,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (CVPR) Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models. [[PDF](https://arxiv.org/pdf/2512.09172)][[CODE](https://github.com/CZZZZZZZZZZZZZZZZZ/PRIMED)]
 * (CVPR) ϕ-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models. [[PDF](https://arxiv.org/pdf/2602.22601)][[CODE](https://github.com/uark-cviu/FaiDPO)]
 * (CVPR) CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning. [[PDF](https://arxiv.org/pdf/2603.02951)]
+* (ICML) KORE: Enhancing Knowledge Injection for Large Multimodal Models via Knowledge-Oriented Controls. [[PDF](https://arxiv.org/pdf/2510.19316)][CODE](https://github.com/KORE-LMM/KORE)]
 * (arxiv) Neural Sentinel: Unified Vision Language Model (VLM) for License Plate Recognition with Human-in-the-Loop Continual Learning. [[PDF](https://arxiv.org/pdf/2602.07051)]
 * (arxiv) Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs. [[PDF](https://arxiv.org/pdf/2602.10740)]
 * (arxiv) Continual Learning with Vision-Language Models via Semantic-Geometry Preservation. [[PDF](https://arxiv.org/pdf/2603.12055)]
