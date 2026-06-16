@@ -75,6 +75,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (ICLR) Memory-Free Continual Learning with Null Space Adaptation for Zero-Shot Vision-Language Models. [[PDF](https://arxiv.org/pdf/2510.21175)]
 * (ICLR) Fine-tuning MLLMs Without Forgetting Is Easier Than You Think. [[PDF](https://arxiv.org/pdf/2603.14493)]
 * (ICLR) Adaptive Rank, Reduced Forgetting: Knowledge Retention in Continual Learning Vision-Language Models with Dynamic Rank-Selective LoRA. [[PDF](https://arxiv.org/pdf/2412.01004)][[CODE](https://github.com/jeff024/codyra)]
+* (ICLR) PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning. [[PDF](https://openreview.net/pdf?id=WdP1NVSzsz)][[CODE](https://github.com/SII-HITclearlove777/PCLR)]
 * (CVPR) Forging a Dynamic Memory: Retrieval-Guided Continual Learning for Generalist Medical Foundation Models. [[PDF](https://arxiv.org/pdf/2512.09172)][[CODE](https://github.com/CZZZZZZZZZZZZZZZZZ/PRIMED)]
 * (CVPR) ϕ-DPO: Fairness Direct Preference Optimization Approach to Continual Learning in Large Multimodal Models. [[PDF](https://arxiv.org/pdf/2602.22601)][[CODE](https://github.com/uark-cviu/FaiDPO)]
 * (CVPR) CGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning. [[PDF](https://arxiv.org/pdf/2603.02951)]
@@ -83,6 +84,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (arxiv) Reinforced Curriculum Pre-Alignment for Domain-Adaptive VLMs. [[PDF](https://arxiv.org/pdf/2602.10740)]
 * (arxiv) Continual Learning with Vision-Language Models via Semantic-Geometry Preservation. [[PDF](https://arxiv.org/pdf/2603.12055)]
 * (arxiv) Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis. [[PDF](https://arxiv.org/pdf/2604.00820)][[CODE](https://github.com/XingxingW/CLeaRS-Preview)]
+* (arxiv) Towards Robust Endogenous Reasoning: Unifying Drift Adaptation in Non-Stationary Tuning. [[PDF](https://arxiv.org/pdf/2604.15705)]
 
 
 
@@ -96,6 +98,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (ICCV) Instruction-Grounded Visual Projectors for Continual Learning of Generative Vision-Language Models. [[PDF](https://arxiv.org/abs/2508.00260)]
 * (ICML) LADA: Scalable Label-Specific CLIP Adapter for Continual Learning. [[PDF](https://arxiv.org/abs/2505.23271)][[CODE](https://github.com/MaolinLuo/LADA)]
 * (ICML) SEFE: Superficial and Essential Forgetting Eliminator for Multimodal Continual Instruction Tuning. [[PDF](https://arxiv.org/abs/2505.02486)][[CODE](https://github.com/jinpeng0528/SEFE/)]
+* (ICML) Dynamic Mixture of Curriculum LoRA Experts for Continual Multimodal Instruction Tuning. [[PDF](https://arxiv.org/abs/2506.11672)][[CODE](https://github.com/gcd19/D-MoLE)]
 * (ICLR) C-CLIP: Multimodal Continual Learning for Vision-Language Model. [[PDF](https://openreview.net/pdf?id=sb7qHFYwBc)][[CODE](https://github.com/SmallPigPeppa/C-CLIP)]
 * (CVPR) Synthetic Data is an Elegant GIFT for Continual Vision-Language Models. [[PDF](https://arxiv.org/pdf/2503.04229)][[CODE](https://github.com/Luo-Jiaming/GIFT_CL)]
 * (CVPR) Language Guided Concept Bottleneck Models for Interpretable Continual Learning. [[PDF](https://arxiv.org/pdf/2503.23283)][[CODE](https://github.com/FisherCats/CLG-CBM)]
