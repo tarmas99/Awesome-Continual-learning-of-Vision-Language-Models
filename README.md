@@ -85,6 +85,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (arxiv) Continual Learning with Vision-Language Models via Semantic-Geometry Preservation. [[PDF](https://arxiv.org/pdf/2603.12055)]
 * (arxiv) Continual Vision-Language Learning for Remote Sensing: Benchmarking and Analysis. [[PDF](https://arxiv.org/pdf/2604.00820)][[CODE](https://github.com/XingxingW/CLeaRS-Preview)]
 * (arxiv) Towards Robust Endogenous Reasoning: Unifying Drift Adaptation in Non-Stationary Tuning. [[PDF](https://arxiv.org/pdf/2604.15705)]
+* (arxiv) Hidden Forgetting in Continual Multimodal Learning: When Accuracy Survives but Grounding Fails. [[PDF](https://arxiv.org/pdf/2607.02020)]
 
 
 
