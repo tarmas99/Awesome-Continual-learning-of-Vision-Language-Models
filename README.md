@@ -223,11 +223,11 @@ We welcome contributions! If you have a paper, dataset, or codebase that should 
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=YuyangSunshine%2FAwesome-Continual-learning-of-Vision-Language-Models&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=YuyangSunshine%2FAwesome-Continual-learning-of-Vision-Language-Models&type=timeline&logscale=&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=V1aafKf6bIX4uvzSBMpZmcNCnQy_Ifb-2cGYqw0EDlELoJik11CUn34dEzYp_5oa5_fG8gcc3NgSVUeNgnUjWo3txFqdUtrFKnhqQ2I9IeexkWwtPnljTg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=timeline&logscale&legend=top-left&sealed_token=V1aafKf6bIX4uvzSBMpZmcNCnQy_Ifb-2cGYqw0EDlELoJik11CUn34dEzYp_5oa5_fG8gcc3NgSVUeNgnUjWo3txFqdUtrFKnhqQ2I9IeexkWwtPnljTg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YuyangSunshine/Awesome-Continual-learning-of-Vision-Language-Models&type=timeline&logscale&legend=top-left&sealed_token=V1aafKf6bIX4uvzSBMpZmcNCnQy_Ifb-2cGYqw0EDlELoJik11CUn34dEzYp_5oa5_fG8gcc3NgSVUeNgnUjWo3txFqdUtrFKnhqQ2I9IeexkWwtPnljTg" />
  </picture>
 </a>
 
