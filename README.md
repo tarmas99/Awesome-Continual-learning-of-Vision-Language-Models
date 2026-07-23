@@ -66,7 +66,6 @@ Based on these challenges, we propose a **solution-driven taxonomy** to categori
 *Sorted chronologically (newest first).*  
 
 ### 2026
-* (ICLR) PCLR: Progressively Compressed LoRA for Multimodal Continual Instruction Tuning [[PDF](https://openreview.net/pdf?id=WdP1NVSzsz)][[CODE](https://github.com/SII-HITclearlove777/PCLR)]
 * (AAAI) LoRA in LoRA: Towards Parameter-Efficient Architecture
 Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/2508.06202)]
 * (AAAI) Harnessing Textual Semantic Priors for Knowledge Transfer and Refinement in CLIP-Driven Continual Learning. [[PDF](https://arxiv.org/pdf/2508.01579)][[CODE](https://github.com/HHHLF/SECA_master)]
