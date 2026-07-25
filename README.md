@@ -107,7 +107,7 @@ Expansion for Continual Visual Instruction Tuning. [[PDF](https://arxiv.org/pdf/
 * (EMNLP) ModalPrompt: Towards Efficient Multimodal Continual Instruction Tuning with Dual-Modality Guided Prompt. [[PDF](https://arxiv.org/pdf/2410.05849)][[CODE](https://github.com/AuroraZengfh/ModalPrompt)]
 * (TPAMI) Learning without Forgetting for Vision-Language Models. [[PDF](https://arxiv.org/pdf/2305.19270)][[CODE](https://github.com/zhoudw-zdw/PROOF/)]
 * (TMM) Visual Class Incremental Learning with Textual Priors Guidance based on an Adapted Vision-Language Model. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10897910)][[CODE](https://openi.pcl.ac.cn/OpenMedIA/CIL_Adapterd_VLM)]
-* (ECML-PKDD) ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP. [[PDF](https://arxiv.org/pdf/2506.19608)]
+* (ECML-PKDD) ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP. [[PDF](https://arxiv.org/pdf/2506.19608)] [[CODE] (https://github.com/XiaoAI1989/ChordPrompt)]
 * (TMLR) Continual Learning on CLIP via Incremental Prompt Tuning with Intrinsic Textual Anchors. [[PDF](https://arxiv.org/pdf/2505.20680)][[CODE](https://github.com/jeff024/tppt)]
 * (TMLR) Efficient Few-Shot Continual Learning in Vision-Language Models. [[PDF](https://arxiv.org/pdf/2502.04098)]
 * (EMNLP Findings) Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent. [[PDF](https://arxiv.org/pdf/2502.11740)]
